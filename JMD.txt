@@ -1,0 +1,20 @@
+Yes No Yes
+No Yes Yes
+Yes Yes Yes
+Yes No
+No No No
+
+True True True True True True
+True False False False False
+False True True False
+True
+False
+False
+
+Blah Blah Blah…… Yes Bro.. No Bro… Why Bro
+
+That is True Bro
+
+False Bro
+
+True That
